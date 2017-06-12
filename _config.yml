@@ -4,8 +4,8 @@ email: fraden@brandeis.edu
 description: > # this means to ignore newlines until "baseurl:"
    A photo essay documenting the the 2017 Brandeis Art Science Initiative
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/~ccag/artphysicsblog" # the subpath of your site, e.g. /blog/
+url: "www.cs.brandeis.edu" # the base hostname & protocol for your site
 
 
 # Build settings
