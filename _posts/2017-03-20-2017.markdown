@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Building: Casting the Eel"
+date:   2017-02-28
+preview: "/assets/building0 2.jpg"
+---
+
+E. Babineau casted the eel in order to make a mold for a sculpture that
+would invoke the organic form of an eel, but used a semi-transparent material
+that would be stretched on pins, reminiscent of a dissection in a lab. The entire process
+took about six hours.
+
+![picture1]({{ site.url }}//assets/building0.jpg)
+
+![picture1]({{ site.url }}//assets/building1.jpg)
+![picture1]({{ site.url }}//assets/building2.jpg)
+![picture1]({{ site.url }}//assets/building3.jpg)
+![picture1]({{ site.url }}//assets/building4.jpg)
+![picture1]({{ site.url }}//assets/building5.jpg)
+![picture1]({{ site.url }}//assets/building6.jpg)
+![picture1]({{ site.url }}//assets/building7.jpg)

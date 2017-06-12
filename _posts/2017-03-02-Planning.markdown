@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Planning: Finalizing"
+date:   2017-02-28
+preview: "/assets/planning4 copy 3.jpg"
+---
+
+![picture1]({{ site.url }}//assets/planning1.jpg)
+
+
+One month out from the festival, we met once more in the art building in order to
+finalize our plans. Our main concerns at this point were vision - while we had
+a diverse range of ideas and materials, we wanted to specifically ask ourselves
+
+a) what are we communicating to our audience/what problem are we trying to solve
+
+b) what are we doing that is different?
+
+We sketched the beginnings of our final product and began to divide up tasks in
+order to actually build.
+
+![picture1]({{ site.url }}//assets/planning2.jpg)
+
+![picture1]({{ site.url }}//assets/planning3.jpg)
+
+![picture1]({{ site.url }}//assets/planning4.jpg)

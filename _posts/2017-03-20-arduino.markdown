@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Building: Programming the Eel"
+date:   2017-02-28
+preview: "/assets/arudino7 3.jpg"
+---
+
+C. Caggiano and R. Boros worked extensively on creating a light display
+using LEDs and arduinos, in order to mimic the natural propagation of
+a neuron firing - essentially what the BZ reaction models. We are extremely grateful
+for the help of the MakerLab in this component.
+
+![picture1]({{ site.url }}//assets/arduino1.jpg)
+![picture1]({{ site.url }}//assets/arduino2.jpg)
+![picture1]({{ site.url }}//assets/arduino3.jpg)
+![picture1]({{ site.url }}//assets/arduino4.jpg)
+![picture1]({{ site.url }}//assets/arduino5.jpg)
+![picture1]({{ site.url }}//assets/arduino6.jpg)
+![picture1]({{ site.url }}//assets/arduino7.jpg)

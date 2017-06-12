@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Final"
+date:   2017-02-28
+preview: "/assets/final1 3.jpg"
+---
+
+The final project of the Brandeis Art Science Initiative was on view the
+week of April 27th 2017. It consisted of two mechanical sculptures, and an
+interactive display that challenged the viewer to think about science and art
+critically.
+
+![picture1]({{ site.url }}//assets/final1.jpg)
+![picture1]({{ site.url }}//assets/final2.jpg)
+![picture1]({{ site.url }}//assets/final3.jpg)
+![picture1]({{ site.url }}//assets/final4.jpg)
+![picture1]({{ site.url }}//assets/final5.jpg)
+![picture1]({{ site.url }}//assets/final6.jpg)
+![picture1]({{ site.url }}//assets/final7.jpg)
