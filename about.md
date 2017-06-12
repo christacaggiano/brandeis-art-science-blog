@@ -14,7 +14,7 @@ Both science and art explore the complex realities of life by reducing difficult
 
 Made possible by: DEAN OF ARTS AND SCIENCES FACULTY/STUDENT COLLABORATIVE RESEARCH GRANT
 
-![picture1]({{ site.url }}//assets/group1.jpg)
+![picture1]({{ site.baseurl }}//assets/group1.jpg)
 
 ^ the gang (with Christa taking the photo)
 

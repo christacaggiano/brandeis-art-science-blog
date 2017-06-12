@@ -15,7 +15,7 @@ explore a variety of ways of presenting our data.
 
 Excerpts from this powerpoint are here:
 
-![picture1]({{ site.url }}//assets/ss2.png)
-![picture1]({{ site.url }}//assets/ss1.png)
-![picture1]({{ site.url }}//assets/ss3.png)
-![picture1]({{ site.url }}//assets/ss4.png)
+![picture1]({{ site.baseurl }}//assets/ss2.png)
+![picture1]({{ site.baseurl }}//assets/ss1.png)
+![picture1]({{ site.baseurl }}//assets/ss3.png)
+![picture1]({{ site.baseurl }}//assets/ss4.png)

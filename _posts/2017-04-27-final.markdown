@@ -10,10 +10,10 @@ week of April 27th 2017. It consisted of two mechanical sculptures, and an
 interactive display that challenged the viewer to think about science and art
 critically.
 
-![picture1]({{ site.url }}//assets/final1.jpg)
-![picture1]({{ site.url }}//assets/final2.jpg)
-![picture1]({{ site.url }}//assets/final3.jpg)
-![picture1]({{ site.url }}//assets/final4.jpg)
-![picture1]({{ site.url }}//assets/final5.jpg)
-![picture1]({{ site.url }}//assets/final6.jpg)
-![picture1]({{ site.url }}//assets/final7.jpg)
+![picture1]({{ site.baseurl }}//assets/final1.jpg)
+![picture1]({{ site.baseurl }}//assets/final2.jpg)
+![picture1]({{ site.baseurl }}//assets/final3.jpg)
+![picture1]({{ site.baseurl }}//assets/final4.jpg)
+![picture1]({{ site.baseurl }}//assets/final5.jpg)
+![picture1]({{ site.baseurl }}//assets/final6.jpg)
+![picture1]({{ site.baseurl }}//assets/final7.jpg)

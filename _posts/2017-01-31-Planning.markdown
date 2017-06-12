@@ -5,11 +5,11 @@ date:   2017-01-31
 preview: "/assets/planning-1.jpg"
 ---
 
-<!-- ![picture1]({{ site.url }}//assets/planning-2.jpg)
+<!-- ![picture1]({{ site.baseurl }}//assets/planning-2.jpg)
 
 Remi gives a tour of the Fraden lab. -->
 
-![picture1]({{ site.url }}//assets/planning-3.jpg)
+![picture1]({{ site.baseurl }}//assets/planning-3.jpg)
 
 The Belousov–Zhabotinsky reaction is a major source of inspiration for this project. Lovingly referred to as the BZ reaction,
 it is part of a class of chemical reactions called nonlinear chemical oscillators. Essentially, this means that unlike
@@ -18,31 +18,29 @@ two states, red and blue, for long periods of time. It is a classic example of n
 
 The reaction involves two key steps: bromine is generated, producing a red color, and a second process consumes the bromine, to give two
 bromine atoms, yielding a blue color. It is thought that a BZ reaction may take 18 separate chemical steps, however, the complete
-chemical behavior is not fully understood. 
+chemical behavior is not fully understood.
 
-More intuitively, the BZ reaction is a light switch that can turn itself off. It is an autocatalytic reaction, meaning that it creates more than 
-what is necessary to create the reaction. In doing so, however, it creates an inhibitor, that then shuts itself off. The "on" and "off" states 
-correspond to the blue and red colors seen in the reaction. 
+More intuitively, the BZ reaction is a light switch that can turn itself off. It is an autocatalytic reaction, meaning that it creates more than
+what is necessary to create the reaction. In doing so, however, it creates an inhibitor, that then shuts itself off. The "on" and "off" states
+correspond to the blue and red colors seen in the reaction.
 
-The Fraden lab studies the BZ reaction in the context of biological systems. Particularly, the Fraden lab strives to construct soft robots with the 
+The Fraden lab studies the BZ reaction in the context of biological systems. Particularly, the Fraden lab strives to construct soft robots with the
 attributes of living, motile systems. These soft robotics will be controlled by networks of BZ reactions that function as an artificial neural tissue.
-This is a simplified Central Pattern Generator (CPG)- essentially attempting to evoke a control center in the body that controls everything from the 
-contraction of a heart to the slither of a snake. 
+This is a simplified Central Pattern Generator (CPG)- essentially attempting to evoke a control center in the body that controls everything from the
+contraction of a heart to the slither of a snake.
 
-![picture2]({{ site.url }}//assets/planning-4.jpg)
+![picture2]({{ site.baseurl }}//assets/planning-4.jpg)
 
-![picture3]({{ site.url }}//assets/planning-5.jpg)
+![picture3]({{ site.baseurl }}//assets/planning-5.jpg)
 
-Much of the first day was spent surveying the Fraden lab and exploring the science behind soft matter. Remi prepared a BZ reaction to demostrate the both 
-the science but the artistic appeal of oscillatory systems. 
+Much of the first day was spent surveying the Fraden lab and exploring the science behind soft matter. Remi prepared a BZ reaction to demostrate the both
+the science but the artistic appeal of oscillatory systems.
 
-What is most striking about the BZ reaction in laboratory conditions is its almost hypnotizing oscillations. It draws the viewer in. The system is undoubtably 
-chaotic, but what is compelling to the viewer is how even when mimicking life, the conditions are dizzingly precise. Red and blue colors exist only because of specifically measured quanities administered by micropipetting. This can extend to more experiments the Fraden lab. For example, the CPG, is a finely machined glass slide, with 80 microns of silicon on top. 
+What is most striking about the BZ reaction in laboratory conditions is its almost hypnotizing oscillations. It draws the viewer in. The system is undoubtably
+chaotic, but what is compelling to the viewer is how even when mimicking life, the conditions are dizzingly precise. Red and blue colors exist only because of specifically measured quanities administered by micropipetting. This can extend to more experiments the Fraden lab. For example, the CPG, is a finely machined glass slide, with 80 microns of silicon on top.
 
 Immediately we realized, this is one of many points of intersection between art and science. Artists and scientists
-alike strive- almost manically- to create something that is a perfect reflection of reality. We are looking forward to a process that builds on that collective 
-worldview to share and confront important scientific and artistic questions. 
+alike strive- almost manically- to create something that is a perfect reflection of reality. We are looking forward to a process that builds on that collective
+worldview to share and confront important scientific and artistic questions.
 
-![picture4]({{ site.url }}//assets/planning-8.jpg)
-
-
+![picture4]({{ site.baseurl }}//assets/planning-8.jpg)

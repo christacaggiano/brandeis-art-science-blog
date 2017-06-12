@@ -14,17 +14,17 @@ Our process for this project can essentially be seen as tripartite -
 
 1) inspiration from both science and the natural world
 
-![picture1]({{ site.url }}//assets/screenshot1.png)
+![picture1]({{ site.baseurl }}//assets/screenshot1.png)
 
 2) artistic intent
 
 
-![picture1]({{ site.url }}//assets/screenshot2.png)
+![picture1]({{ site.baseurl }}//assets/screenshot2.png)
 
 and 3) scientific intent
 
-![picture1]({{ site.url }}//assets/screenshot3.png)
+![picture1]({{ site.baseurl }}//assets/screenshot3.png)
 
 These coalesced into our thesis and mission statement which are as follows:
 
-![picture1]({{ site.url }}//assets/screenshot4.png)
+![picture1]({{ site.baseurl }}//assets/screenshot4.png)

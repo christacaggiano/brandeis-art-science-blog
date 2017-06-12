@@ -10,12 +10,12 @@ would invoke the organic form of an eel, but used a semi-transparent material
 that would be stretched on pins, reminiscent of a dissection in a lab. The entire process
 took about six hours.
 
-![picture1]({{ site.url }}//assets/building0.jpg)
+![picture1]({{ site.baseurl }}//assets/building0.jpg)
 
-![picture1]({{ site.url }}//assets/building1.jpg)
-![picture1]({{ site.url }}//assets/building2.jpg)
-![picture1]({{ site.url }}//assets/building3.jpg)
-![picture1]({{ site.url }}//assets/building4.jpg)
-![picture1]({{ site.url }}//assets/building5.jpg)
-![picture1]({{ site.url }}//assets/building6.jpg)
-![picture1]({{ site.url }}//assets/building7.jpg)
+![picture1]({{ site.baseurl }}//assets/building1.jpg)
+![picture1]({{ site.baseurl }}//assets/building2.jpg)
+![picture1]({{ site.baseurl }}//assets/building3.jpg)
+![picture1]({{ site.baseurl }}//assets/building4.jpg)
+![picture1]({{ site.baseurl }}//assets/building5.jpg)
+![picture1]({{ site.baseurl }}//assets/building6.jpg)
+![picture1]({{ site.baseurl }}//assets/building7.jpg)

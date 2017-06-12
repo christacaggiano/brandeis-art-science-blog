@@ -15,8 +15,8 @@ interesting chemicals. It was a cross between a laboratory and an art studio. He
 a flexible cast of an eel, including Dragon Skin High Performance Silicon Rubber for our cast.
 
 
-![picture1]({{ site.url }}//assets/reynolds1.jpg)
-![picture1]({{ site.url }}//assets/reynolds3.jpg)
+![picture1]({{ site.baseurl }}//assets/reynolds1.jpg)
+![picture1]({{ site.baseurl }}//assets/reynolds3.jpg)
 
 
 
@@ -24,4 +24,4 @@ A completely wild addition to our artistic process was buying and transporting a
 (already deceased) and came armed with styrofoam buckets of ice. The actual eel form was central to this process. It cemented our
 inspiration and set the foundation for the rest of the project.
 
-![picture1]({{ site.url }}//assets/eel1.jpg)
+![picture1]({{ site.baseurl }}//assets/eel1.jpg)

@@ -12,10 +12,10 @@ for the help of the MakerLab in this component.
 
 The code for the LED firing model is available on Github [here](https://github.com/christacaggiano/led-neuron-firing-model)
 
-![picture1]({{ site.url }}//assets/arduino1.jpg)
-![picture1]({{ site.url }}//assets/arduino2.jpg)
-![picture1]({{ site.url }}//assets/arduino3.jpg)
-![picture1]({{ site.url }}//assets/arduino4.jpg)
-![picture1]({{ site.url }}//assets/arduino5.jpg)
-![picture1]({{ site.url }}//assets/arduino6.jpg)
-![picture1]({{ site.url }}//assets/arduino7.jpg)
+![picture1]({{ site.baseurl }}//assets/arduino1.jpg)
+![picture1]({{ site.baseurl }}//assets/arduino2.jpg)
+![picture1]({{ site.baseurl }}//assets/arduino3.jpg)
+![picture1]({{ site.baseurl }}//assets/arduino4.jpg)
+![picture1]({{ site.baseurl }}//assets/arduino5.jpg)
+![picture1]({{ site.baseurl }}//assets/arduino6.jpg)
+![picture1]({{ site.baseurl }}//assets/arduino7.jpg)

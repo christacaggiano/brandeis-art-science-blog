@@ -10,7 +10,7 @@ The physicist tool of choice is the whiteboard. For many artists, they start wit
 It was interesting to combine methodologies into whiteboard sketching, which became the foundation
 for our planning.
 
-![picture1]({{ site.url }}//assets/planning-6.jpg)
+![picture1]({{ site.baseurl }}//assets/planning-6.jpg)
 
 
 Since the Fraden lab's research hinges on oscillation, we naturally gravitated towards
