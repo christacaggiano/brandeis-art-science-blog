@@ -10,6 +10,8 @@ using LEDs and arduinos, in order to mimic the natural propagation of
 a neuron firing - essentially what the BZ reaction models. We are extremely grateful
 for the help of the MakerLab in this component.
 
+The code for the LED firing model is available on Github [here](https://github.com/christacaggiano/led-neuron-firing-model)
+
 ![picture1]({{ site.url }}//assets/arduino1.jpg)
 ![picture1]({{ site.url }}//assets/arduino2.jpg)
 ![picture1]({{ site.url }}//assets/arduino3.jpg)
